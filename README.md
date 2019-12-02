@@ -2,4 +2,7 @@
 Python learning for beginners
 
 
-##Part_1 / Founction
+### Python Beginners
+
+
+### Deep Learning
